@@ -20,4 +20,21 @@ consistent across
  2. Discovery - Liatrtio will meet with XYZ to go ovver the overall engagments requiremetns, present the cloud architecture based solution and go over the Dojo format, objectives, shchedule and expecations.
  3. Pre-Dojo - Finalize the cloud based architecure solution, based on the Tech Agilitu assesment determine what ares the Dojo should foucus on, finalized the Dojo format and scheduke
  4. Dojo, Go to cusomer site to perfome the Dojo (a.k.a immersive learning) focus ont the follwing areas
+    - Introduction to Cloud:
+      - Cloud Computing.
+      - Regios, Zones.
+     - Cloud Services.	
+      -Lift and Shift strategies.
+      -Cloud Native applications.
+     -Cloud Advanced topics
+      - Containerized applications
+      - Container registry
+      - K8s service
+     - Introduction to
+      - SasS, PasS, IasS
+      - IaC
+      - IaC market tools
+      - Advanced CD pipelines and IaC
+     - Labs of each point above
+     - Review Tech Agility Discovery findings
 
