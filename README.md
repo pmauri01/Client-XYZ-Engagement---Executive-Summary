@@ -1,10 +1,10 @@
 # Client XYZ Engagement 
 ## Executive-Summary
  
- ### Overview
+ ## Overview
  This document describes the summary of the engagment between XYZ and Liatrio. 
 
- ### Problem Statemnt
+ ## Problem Statemnt
  The Company XYZ, is a traditional on prem infrastructure shop that is interested in:
   1. Moving to the cloud
   2. As well as modernizing their product suite and architecture.
