@@ -2,9 +2,9 @@
 ## Executive-Summary
  
  ## Overview
- This document describes the summary of the engagment between XYZ and Liatrio. 
+ This document describes the summary of the engagement between XYZ and Liatrio. 
 
- ## Problem Statemnt
+ ## Problem Statement
  The Company XYZ, is a traditional on prem infrastructure shop that is interested in:
   1. Moving to the cloud
   2. As well as modernizing their product suite and architecture.
@@ -14,12 +14,12 @@ about downtime during deployments and code quality being released into productio
 Development teams don’t have a well defined engineering practices to follow and they are not
 consistent across
 
- ## Prosposed Solution
- Propose to Client XYZ a Coaching Dojo engagmetn with Liatrio with the following phases:
- 1. Pre-Discovery - Liatrio Coahces and Engenners will anazlize the client current architecure and workloads, will creare a cloud architecure based solutiuon and create genral Dojo proposal.
- 2. Discovery - Liatrtio will meet with XYZ to go ovver the overall engagments requiremetns, present the cloud architecture based solution and go over the Dojo format, objectives, shchedule and expecations.
- 3. Pre-Dojo - Finalize the cloud based architecure solution, based on the Tech Agilitu assesment determine what ares the Dojo should foucus on, finalized the Dojo format and scheduke
- 4. Dojo, Go to cusomer site to perfome the Dojo (a.k.a immersive learning) focus ont the follwing areas
+ ## Proposed Solution
+ Propose to Client XYZ a Coaching Dojo engagement with Liatrio with the following phases:
+ 1. Pre-Discovery - Liatrio Coaches and Engineers will analyze the client current architecture and workloads, will create a cloud architecture based solution and create general Dojo proposal.
+ 2. Discovery - Liatrio will meet with XYZ to go over the overall engagements requirements, present the cloud architecture based solution and go over the Dojo format, objectives, schedule and expectations.
+ 3. Pre-Dojo - Finalize the cloud based architecture solution, based on the Tech Agility assessment determine what ares the Dojo should focus on, finalized the Dojo format and schedule
+ 4. Dojo, Go to customer site to perform the Dojo (a.k.a immersive learning) focus on the following areas
     - Introduction to Cloud:
       - Cloud Computing.
       - Regios, Zones.
@@ -37,5 +37,5 @@ consistent across
       - Advanced CD pipelines and IaC.
     - Labs of each point above.
     - Review Tech Agility Discovery findings.
-  5. Post-Dojo - Fllow up for any outstanding itemsa and gather customer feedback and imrpove futurte dojos.
+  5. Post-Dojo - Follow up for any outstanding items and gather customer feedback and improve future dojos.
 
