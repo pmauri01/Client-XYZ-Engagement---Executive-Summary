@@ -21,20 +21,21 @@ consistent across
  3. Pre-Dojo - Finalize the cloud based architecure solution, based on the Tech Agilitu assesment determine what ares the Dojo should foucus on, finalized the Dojo format and scheduke
  4. Dojo, Go to cusomer site to perfome the Dojo (a.k.a immersive learning) focus ont the follwing areas
     - Introduction to Cloud:
-      - Cloud Computing
-      - Regios, Zones
-    - Cloud Services
+      - Cloud Computing.
+      - Regios, Zones.
+    - Cloud Services.
       - Lift and Shift strategies.
       - Cloud Native applications.
-    - Cloud Advanced topics
+    - Cloud Advanced topics.
       - Containerized applications
-      - Container registry
-      - K8s service
+      - Container registry.
+      - K8s service.
     - Introduction to
-      - SasS, PasS, IasS
-      - IaC
-      - IaC market tools
-      - Advanced CD pipelines and IaC
-    - Labs of each point above
-    - Review Tech Agility Discovery findings
+      - SasS, PasS, IasS.
+      - IaC.
+      - IaC market tools.
+      - Advanced CD pipelines and IaC.
+    - Labs of each point above.
+    - Review Tech Agility Discovery findings.
+  5. Post-Dojo - Fllow up for any outstanding itemsa and gather customer feedback and imrpove futurte dojos.
 
