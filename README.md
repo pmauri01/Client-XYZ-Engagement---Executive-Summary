@@ -14,5 +14,10 @@ about downtime during deployments and code quality being released into productio
 Development teams don’t have a well defined engineering practices to follow and they are not
 consistent across
 
- ### Prosposed solution 
+ ## Prosposed Solution
+ Propose to Client XYZ a Coaching Dojo engagmetn with Liatrio with the following phases:
+ 1. Pre-Discovery - Liatrio Coahces and Engenners will anazlize the client current architecure and workloads, will creare a cloud architecure based solutiuon and create genral Dojo proposal.
+ 2. Discovery - Liatrtio will meet with XYZ to go ovver the overall engagments requiremetns, present the cloud architecture based solution and go over the Dojo format, objectives, shchedule and expecations.
+ 3. Pre-Dojo - Finalize the cloud based architecure solution, based on the Tech Agilitu assesment determine what ares the Dojo should foucus on, finalized the Dojo format and scheduke
+ 4. Dojo, Go to cusomer site to perfome the Dojo (a.k.a immersive learning) focus ont the follwing areas
 
