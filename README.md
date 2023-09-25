@@ -17,15 +17,13 @@ consistent across
 
  ## Proposed Solution
  Liatrio would like to propose an immersive learning engagement (Dojo) with client XYZ to address with the requirements and challenges of the client the following phases:
- 1. Pre-Discovery - Liatrio Coaches and Engineers will analyze the client current architecture and workloads, will create a cloud architecture based solution and create general Dojo proposal.
+ 1. Discovery Prep - Liatrio Coaches and Engineers will analyze the client current architecture and workloads, will create a cloud architecture based solution and create general Dojo proposal.
  2. Discovery - Liatrio will meet with XYZ to go over the overall engagements requirements, present the cloud architecture based solution and go over the Dojo objectives and expectations.
- 3. Pre-Dojo - Finalize the cloud based architecture solution, based on the Tech Agility assessment determine what ares the Dojo should focus on, finalized the Dojo charter
- 4. Dojo, Go to customer site to perform the Dojo (a.k.a immersive learning) with the following objectives:
-  - Update their existing application to make it cloud enabled.
-  - Lift and Shift their application to the Cloud.
-  - Understand emerging Cloud Technologies.
-  - Understand Azure Cloud architecture and native services. 
-  - Create new application using microservices.
-  - Automate the provisioning of environments using IaC.
-  - Address their current development and operations challenges.
-  5. Post-Dojo - Follow up for any outstanding items and gather customer feedback and improve future dojos.
+ 3. Charter Prep - Go over architecture adujstemnts solution, based on the Tech Agility assessment determine what ares the Dojo should focus on, Pre-fill charter board.
+ 4. Chartering - Present architecure solution, colaborate with development team to create goals and outcomes for the Dojo.
+ 5. Dojo - Execute through the goals and outcomes.
+    Discussions, white boarding sessions to learn new concepts.
+    Hands on to apply their learnings to their own application.
+    Keep full team engaged, while not leaving anyone behind.
+    One on one sessions with individual developers.
+ 6. Post-Dojo - Follow up for any outstanding items and gather customer feedback and improve future dojos.
